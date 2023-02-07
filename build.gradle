@@ -8,7 +8,7 @@ plugins {
 
 repositories {
     mavenCentral()
-    maven {
+    maven-publish {
         url "https://artifactory.dfff.com/artifactory/***REMOVED***-release-local"
         credentials {
             username '***REMOVED***'
