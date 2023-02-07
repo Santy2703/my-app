@@ -8,11 +8,11 @@ plugins {
 
 repositories {
     mavenCentral()
-    maven-publish-***REMOVED*** {
+    maven-release-***REMOVED*** {
         url "https://artifactory.dfff.com/artifactory/tsting-release-local"
         credentials {
-            username '***REMOVED***'
-            password '***REMOVED***'
+            username 'efefef'
+            password 'dfdferfrfrferfe'
         }
     }
 }
